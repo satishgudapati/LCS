@@ -1,0 +1,72 @@
+CLASS NUMBER,LECTURE NUMBER,TOPIC,UNIT,LECTURE DATE (Y-M-D),TEACHING METHOD
+1,1,Basic concepts of simple control system,I,6/29/2019,Chalk &  Talk
+2,2,Open loop control system with an example,I,7/1/2019,Chalk &  Talk
+3,3,Closed loop control system with an example,I,7/2/2019,Chalk &  Talk
+4,4,"Effect of feedback on overall gain, stability, noise, sensitivity",I,7/3/2019,Chalk &  Talk
+5,5,"Types of feedback control system(LTI,TI, Non-linear)",I,7/3/2019,Chalk &  Talk
+6,6,"Brief detail on differential equations, Impulse response and transfer function",I,7/6/2019,Chalk &  Talk
+7,7,Translational mechanical systems,I,7/8/2019,PPT
+8,8,Problems on Translational mechanical systems,I,7/9/2019,Chalk &  Talk
+9,9,Rotational mechanical systems,I,7/10/2019,PPT
+10,10,Problems on Rotational mechanical systems,I,7/10/2019,Chalk &  Talk
+11,11,Force –voltage analogy,I,7/13/2019,PPT
+12,12,Force – current analogy,I,7/15/2019,PPT
+13,13,Block diagram reduction technique,I,7/16/2019,PPT
+14,14,Probelems on Block diagram reduction technique,I,7/17/2019,Chalk &  Talk
+15,15,Probelems on Block diagram reduction technique,I,7/17/2019,Chalk &  Talk
+16,16,Signal flow graphs,I,7/20/2019,PPT
+17,17,Probelems on Signal flow graphs,I,7/22/2019,Chalk &  Talk
+18,18,Probelems on Signal flow graphs,I,7/23/2019,Chalk &  Talk
+19,19,DC servomotor,I,7/24/2019,PPT
+20,20,Ac servo motor,I,7/24/2019,PPT
+21,21,Synchro-transmitter and receiver,I,7/27/2019,PPT
+22,22,"Standard test signals-impulse,step,ramp and parabolic",II,7/29/2019,Chalk &  Talk
+23,23,Impulse response function,II,7/30/2019,Chalk &  Talk
+24,24,Characteristic polynomial & Characteristic equation of feedback systems,II,7/31/2019,Chalk &  Talk
+25,25,Transient response of first order systems to standard test signals,II,7/31/2019,Chalk &  Talk
+26,26,Transient response of second order systems to standard test signals,II,8/3/2019,Chalk &  Talk
+27,27,Transient response of second order systems to standard test signals,II,8/6/2019,Chalk &  Talk
+28,28,Time domain specifications,II,8/7/2019,PPT
+29,29,Expersions for Time domain specifications,II,8/7/2019,Chalk &  Talk
+30,30,"Steady state response, Steady state error, Error constants",II,8/10/2019,Chalk &  Talk
+31,31,Steady state error for various types of inputs,II,8/13/2019,Chalk &  Talk
+32,32,Problems on Steady state error,II,8/14/2019,Chalk &  Talk
+33,33,Effect of adding poles and zeros on overshoot,II,8/14/2019,PPT
+34,34,Effect of adding poles and zeros on rise time,II,8/17/2019,Chalk &  Talk
+35,35,Dominant poles of transfer function,II,8/19/2019,Chalk &  Talk
+36,36,"Absolute stability, relative stability, conditional stability",II,8/28/2019,Chalk &  Talk
+37,37,"BIBO stable system, zero input stability, Conditions for stability",II,8/28/2019,Chalk &  Talk
+38,38,Routh-hurwitz criterion,II,8/31/2019,PPT
+39,39,Problems on Routh-hurwitz criterion,II,9/3/2019,Chalk &  Talk
+40,40,Problems on Routh-hurwitz criterion,II,9/4/2019,Chalk &  Talk
+41,41,Problems on Routh-hurwitz criterion,II,9/4/2019,Chalk &  Talk
+42,42,"Introduction to frequency domain analysis, Frequency domain specifications",III,9/7/2019,Chalk &  Talk
+43,43,Estimation of  Frequency domain specifications for second order systems,III,9/9/2019,Chalk &  Talk
+44,44,Correlation between time domain and frequency domain responses,III,9/11/2019,Chalk &  Talk
+45,45,Polar plots- Gain margin & Phase margin,III,9/11/2019,PPT
+46,46,problems on polar plots,III,9/14/2019,Chalk &  Talk
+47,47,problems on polar plots,III,9/16/2019,Chalk &  Talk
+48,48,problems on polar plots,III,9/17/2019,Chalk &  Talk
+49,49,Introduction to Bode plots,III,9/18/2019,PPT
+50,50,Problems on Bode plots,III,9/18/2019,Chalk &  Talk
+51,51,Calculation of gain margin and phase margin,III,9/21/2019,Chalk &  Talk
+52,52,Problems on Bode plots,III,9/23/2019,Chalk &  Talk
+53,53,Introduction to Nyquist contors,III,9/24/2019,PPT
+54,54,Nyquist stability criterion,III,9/25/2019,Chalk &  Talk
+55,55,Relative stability using Nyquist stability criterion,III,9/25/2019,Chalk &  Talk
+56,56,Closed loop frequency response,III,9/28/2019,Chalk &  Talk
+57,57,Rules for constructing root locus,IV,9/30/2019,PPT
+58,58,Assessing the stability using root locus,IV,10/1/2019,Chalk &  Talk
+59,59,Calculating the gain factor and frequency using root locus,IV,10/14/2019,Chalk &  Talk
+60,60,Problems on root locus,IV,10/15/2019,Chalk &  Talk
+61,61,Compensation techniques(lead and lag compensation),IV,10/16/2019,PPT
+62,62,State variable analysis- introduction,IV,10/16/2019,PPT
+63,63,"State, State variable, State model",IV,10/19/2019,Chalk &  Talk
+64,64,Diagonalization,IV,10/21/2019,Chalk &  Talk
+65,65,Solution of state equation,IV,10/21/2019,Chalk &  Talk
+66,66,State transition matrix,IV,10/22/2019,PPT
+67,67,State model to LTI systems,IV,10/22/2019,Chalk &  Talk
+68,68,State space representation using physical variables,IV,10/23/2019,Chalk &  Talk
+69,69,Stare space representation using phase variables,IV,10/23/2019,Chalk &  Talk
+70,70,State space representation using canonical variables,IV,10/26/2019,Chalk &  Talk
+71,71,Concepts of controllability and observability,IV,10/26/2019,PPT
